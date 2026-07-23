@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code local settings
+.vscode/
+
+# MATLAB temporary files
+*.asv
+*.m~
+slprj/
+*.slxc
+
+# SPICE temporary files
+*.raw
+*.log
+
+# Secrets
+.env
+*.key
+credentials.*
+secrets.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
