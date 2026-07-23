@@ -76,4 +76,4 @@ $$
 
 ## Diagnostic answer
 
-![Diagnostic answer](Exercises/01_diagnostic_answer.jpg)
+![Diagnostic answer](Exercises\week01\01_diagnostic_answer.jpg)
