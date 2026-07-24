@@ -45,6 +45,7 @@ of Electronic and Electrical Engineering at UCL.
 
 - `planning/`: study plans and progress tracking
 - `notes/`: personal study notes
+- `exercises/`: questions, handwritten answers and corrections
 - `python/`: Python simulations and projects
 - `matlab/`: MATLAB simulations
 - `spice/`: circuit simulation files
