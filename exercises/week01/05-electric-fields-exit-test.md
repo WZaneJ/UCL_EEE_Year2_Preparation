@@ -1,4 +1,4 @@
-﻿# Week 1 Day 2 Exercises
+# Week 1 Day 2 Exercises
 
 ## Exercise 5: Exit Test
 
@@ -8,7 +8,7 @@ Write the formulas for $\mathbf{E}(r)$ and $V(r)$ due to a point charge $Q$, and
 
 ### Question 2: Parallel-plate capacitor
 
-A parallel-plate capacitor has plate separation $d = 5\;\text{mm}$ and a potential difference $V_0 = 20\;\text{V}$ between the plates.
+A parallel-plate capacitor has plate separation $d = 5~\text{mm}$ and a potential difference $V_0 = 20~\text{V}$ between the plates.
 
 1. Find $|\mathbf{E}|$ in V/m.
 2. State the direction of $\mathbf{E}$ relative to the plates.
@@ -18,11 +18,11 @@ A parallel-plate capacitor has plate separation $d = 5\;\text{mm}$ and a potenti
 The electric potential is
 
 $$
-V(x) = 3x^2\;\text{V}.
+V(x) = 3x^2~\text{V}.
 $$
 
 1. Find $E_x(x)$.
-2. An electron is placed at $x = 2\;\text{m}$. What is the direction of the electric force on it?
+2. An electron is placed at $x = 2~\text{m}$. What is the direction of the electric force on it?
 
 ### Question 4: Conductor in equilibrium
 

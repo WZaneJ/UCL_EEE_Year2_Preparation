@@ -1,4 +1,4 @@
-﻿# Week 1 Day 1 Exercises
+# Week 1 Day 1 Exercises
 
 ## Exercise 3: Exit Test
 
@@ -39,20 +39,20 @@ Then, using the $e^{j\omega t}$ convention, write the corresponding spatial phas
 
 Classify the solutions of the following equations as oscillatory, exponential, or repeated-root exponential. A full solution is not required.
 
-1. 
-   $$
-   y''+25y=0
-   $$
+1.
+$$
+y''+25y=0
+$$
 
-2. 
-   $$
-   y''-25y=0
-   $$
+2.
+$$
+y''-25y=0
+$$
 
-3. 
-   $$
-   y''+10y'+25y=0
-   $$
+3.
+$$
+y''+10y'+25y=0
+$$
 
 ### Question 4: Physical boundary condition
 

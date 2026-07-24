@@ -1,4 +1,4 @@
-﻿# Week 1 Day 2: Electric Fields and Potential
+# Week 1 Day 2: Electric Fields and Potential
 
 ## Related modules
 
@@ -12,7 +12,7 @@
 The force between two point charges is
 
 $$
-\mathbf{F} = \frac{1}{4\pi\varepsilon_0}\frac{Qq}{r^2}\,\hat{\mathbf{r}}.
+\mathbf{F} = \frac{1}{4\pi\varepsilon_0}\frac{Qq}{r^2}\,\hat{\mathbf{r}}
 $$
 
 The electric field is the force per unit test charge:
@@ -20,13 +20,13 @@ The electric field is the force per unit test charge:
 $$
 \mathbf{E} = \frac{\mathbf{F}}{q}
            = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2}\,\hat{\mathbf{r}},
-\qquad\text{units V/m (or N/C)}.
+\quad\text{units V/m (or N/C)}
 $$
 
 The constant is
 
 $$
-\frac{1}{4\pi\varepsilon_0} = 9\times10^9\;\text{N·m}^2\!/\text{C}^2.
+\frac{1}{4\pi\varepsilon_0} = 9\times10^9~\text{N路m}^2/\text{C}^2.
 $$
 
 ## 2. Electric potential and potential energy
@@ -43,12 +43,12 @@ $$
 U = qV,\qquad\text{units J}.
 $$
 
-An electron therefore has $U = -eV$, where $e = 1.6\times10^{-19}\,\text{C}$.
+An electron therefore has $U = -eV$, where $e = 1.6\times10^{-19}~\text{C}$.
 
 The electron-volt is
 
 $$
-1\;\text{eV} = 1.6\times10^{-19}\;\text{J}.
+1~\text{eV} = 1.6\times10^{-19}~\text{J}.
 $$
 
 ## 3. Relation between field and potential
@@ -67,16 +67,16 @@ Because the electron charge is $q = -e$:
 
 - Force: $\mathbf{F} = -e\mathbf{E}$ (opposite to $\mathbf{E}$).
 - Potential energy: $U = -eV$ (negative in a positive potential).
-- The eV unit: gaining $1\;\text{eV}$ of kinetic energy means the electron has moved through a potential difference of $1\;\text{V}$.
+- The eV unit: gaining $1~\text{eV}$ of kinetic energy means the electron has moved through a potential difference of $1~\text{V}$.
 
 ## 5. Parallel-plate capacitor (worked example)
 
-Two parallel plates separated by $d = 5\;\text{mm}$ with a potential difference $V_0 = 20\;\text{V}$.
+Two parallel plates separated by $d = 5~\text{mm}$ with a potential difference $V_0 = 20~\text{V}$.
 
 The field is uniform between the plates:
 
 $$
-|\mathbf{E}| = \frac{V_0}{d} = \frac{20}{0.005} = 4000\;\text{V/m}.
+|\mathbf{E}| = \frac{V_0}{d} = \frac{20}{0.005} = 4000~\text{V/m}.
 $$
 
 The potential varies linearly:
