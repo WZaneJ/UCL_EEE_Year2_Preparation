@@ -1,4 +1,4 @@
-# Week 1 Day 1 Exercises
+﻿# Week 1 Day 1 Exercises
 
 ## Exercise 3: Exit Test
 
@@ -30,7 +30,7 @@ $$
 write a complex function $\widetilde{E}(z,t)$ such that
 
 $$
-E(z,t)=\operatorname{Re}\{\widetilde{E}(z,t)\}.
+E(z,t)=\Re\{\widetilde{E}(z,t)\}.
 $$
 
 Then, using the $e^{j\omega t}$ convention, write the corresponding spatial phasor $\widetilde{E}(z)$.

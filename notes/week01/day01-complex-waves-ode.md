@@ -1,4 +1,4 @@
-# Week 1 Day 1: Complex Numbers, Waves and ODEs
+﻿# Week 1 Day 1: Complex Numbers, Waves and ODEs
 
 ## Related modules
 
@@ -35,7 +35,7 @@ $$
 u(x,t)=A\cos(\omega t-\beta x+\phi)
 $$
 
-travels in the positive \(x\)-direction.
+travels in the positive $x$-direction.
 
 A wave of the form
 
@@ -43,7 +43,7 @@ $$
 u(x,t)=A\cos(\omega t+\beta x+\phi)
 $$
 
-travels in the negative \(x\)-direction.
+travels in the negative $x$-direction.
 
 The direction can be determined by keeping the phase constant.
 
@@ -89,8 +89,8 @@ $$
 
 ## 5. Boundary conditions
 
-If the solution must remain finite as \(x\to+\infty\),
-the coefficient of \(e^{\alpha x}\) must be zero.
+If the solution must remain finite as $x\to+\infty$,
+the coefficient of $e^{\alpha x}$ must be zero.
 
 ## 6. Reflection
 

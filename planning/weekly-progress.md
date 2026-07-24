@@ -1,4 +1,4 @@
-# Weekly Progress
+﻿# Weekly Progress
 
 ## Week 1: Complex numbers, fields and dynamic systems
 
@@ -28,7 +28,7 @@ $$
 ### Review queue
 
 - [ ] Review the difference between a complete complex field and a phasor
-- [ ] Remember the factor \(2j\) in the exponential form of sine
+- [ ] Remember the factor $2j$ in the exponential form of sine
 - [ ] Distinguish spatial attenuation from temporal variation
 
 ### Day 2: Electric fields and potential

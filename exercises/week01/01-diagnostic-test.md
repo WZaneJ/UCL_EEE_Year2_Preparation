@@ -1,4 +1,4 @@
-# Week 1 Day 1 Exercises
+﻿# Week 1 Day 1 Exercises
 
 ## Exercise 1: Diagnostic Test
 
@@ -14,10 +14,10 @@ $$
 
 Calculate:
 
-1. \( |z_1| \)
-2. \( z_1^* \)
-3. \( z_1z_2 \)
-4. \( z_1/z_2 \)
+1. $|z_1|$
+2. $z_1^*$
+3. $z_1z_2$
+4. $z_1/z_2$
 
 ### Question 2: Exponential form
 

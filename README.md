@@ -6,11 +6,11 @@ of Electronic and Electrical Engineering at UCL.
 
 ## Learning tracks
 
-1. Complex numbers → Fourier analysis → waves and communications
-2. ODEs → Laplace transforms → transfer functions and control
-3. Vector calculus → Maxwell equations → PDEs and waveguides
-4. Quantum mechanics → band theory → semiconductor and photonic devices
-5. Linear algebra → least squares → statistics and data modelling
+1. Complex numbers -> Fourier analysis -> waves and communications
+2. ODEs -> Laplace transforms -> transfer functions and control
+3. Vector calculus -> Maxwell equations -> PDEs and waveguides
+4. Quantum mechanics -> band theory -> semiconductor and photonic devices
+5. Linear algebra -> least squares -> statistics and data modelling
 
 ## Related modules
 
@@ -28,7 +28,15 @@ of Electronic and Electrical Engineering at UCL.
 - [ ] Week 1 Day 2: Electric fields and potential
 - [ ] Week 1 Day 3: Dynamic systems
 - [ ] Week 1 Day 4: Semiconductor and photonics foundations
-- [ ] Week 1 Day 5: Python OOP — Wave class
+- [ ] Week 1 Day 5: Python OOP - Wave class
+
+### Week 1 Day 1 materials
+
+- [Study notes](notes/week01/day01-complex-waves-ode.md)
+- [Diagnostic test](exercises/week01/01-diagnostic-test.md)
+- [Travelling-waves and ODE practice](exercises/week01/02-travelling-waves-ode-practice.md)
+- [Exit test](exercises/week01/03-exit-test.md)
+- [Python simulations](python/week01/)
 
 ## Tools
 
@@ -43,10 +51,15 @@ of Electronic and Electrical Engineering at UCL.
 
 ## Repository structure
 
+### Current
+
 - `planning/`: study plans and progress tracking
 - `notes/`: personal study notes
 - `exercises/`: questions, handwritten answers and corrections
 - `python/`: Python simulations and projects
+
+### Planned
+
 - `matlab/`: MATLAB simulations
 - `spice/`: circuit simulation files
 - `reports/`: weekly and project reports
