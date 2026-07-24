@@ -26,7 +26,7 @@ $$
 The constant is
 
 $$
-\frac{1}{4\pi\varepsilon_0} = 9\times10^9~\text{N路m}^2/\text{C}^2.
+\frac{1}{4\pi\varepsilon_0} = 9\times10^9~\text{N·m}^2/\text{C}^2.
 $$
 
 ## 2. Electric potential and potential energy
