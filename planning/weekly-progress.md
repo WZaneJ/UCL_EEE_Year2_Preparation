@@ -33,8 +33,38 @@ $$
 
 ### Day 2: Electric fields and potential
 
-- [ ] Coulomb's law
-- [ ] Electric field
-- [ ] Electric potential
-- [ ] Relationship between field and potential
-- [ ] Python visualisation
+- [x] Coulomb's law
+- [x] Electric field
+- [x] Electric potential and potential energy
+- [x] Relationship between field and potential ($E = -dV/dx$)
+- [x] Sign of electron charge and electron potential energy
+- [x] Gauss's law and symmetry (preview)
+- [x] Python visualisation
+- [x] Practice questions
+- [x] Exit test
+
+### Key results
+
+$$
+\mathbf{E}(r) = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2}\,\hat{\mathbf{r}}
+$$
+
+$$
+V(r) = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r}
+$$
+
+$$
+E_x = -\frac{dV}{dx}
+$$
+
+$$
+|\mathbf{E}| = \frac{V_0}{d}\quad\text{(parallel plate)}
+$$
+
+### Review queue
+
+- [ ] Consistently write both magnitude and direction for vector answers
+- [ ] Keep $dx$ (spatial) and $dt$ (time) derivatives distinct in notation
+- [ ] Reinforce the sign convention for electron potential energy $U = -eV$
+
+### Day 3: Dynamic systems and circuit ODEs
