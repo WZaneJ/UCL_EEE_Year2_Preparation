@@ -1,4 +1,4 @@
-# Week 1 Day 3 - Dynamic systems and circuit ODEs
+# Week 1 Day 3: Dynamic Systems and Circuit ODEs
 
 - Date: 2026-07-29
 - Status: complete (exit test 5/5; mastery estimate about 95%)

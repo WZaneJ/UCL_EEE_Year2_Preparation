@@ -4,7 +4,7 @@
 
 ### Question 1: Point charge
 
-A point charge $Q = +1\;\mu\text{C}$ is placed at the origin.
+A point charge $Q = +1~\mu\text{C}$ is placed at the origin.
 
 At $r = 0.1~\text{m}$:
 
