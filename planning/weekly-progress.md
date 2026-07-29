@@ -31,6 +31,43 @@ $$
 - [ ] Remember the factor $2j$ in the exponential form of sine
 - [ ] Distinguish spatial attenuation from temporal variation
 
+
+### Day 2: Electric fields and potential
+
+- [x] Coulomb's law
+- [x] Electric field
+- [x] Electric potential and potential energy
+- [x] Relationship between field and potential ($E = -dV/dx$)
+- [x] Sign of electron charge and electron potential energy
+- [x] Gauss's law and symmetry (preview)
+- [x] Python visualisation
+- [x] Practice questions
+- [x] Exit test
+
+### Key results
+
+$$
+\mathbf{E}(r) = rac{1}{4\piarepsilon_0}rac{Q}{r^2}\,\hat{\mathbf{r}}
+$$
+
+$$
+V(r) = rac{1}{4\piarepsilon_0}rac{Q}{r}
+$$
+
+$$
+E_x = -rac{dV}{dx}
+$$
+
+$$
+|\mathbf{E}| = rac{V_0}{d}\quad	ext{(parallel plate)}
+$$
+
+### Review queue
+
+- [ ] Consistently write both magnitude and direction for vector answers
+- [ ] Keep $dx$ (spatial) and $dt$ (time) derivatives distinct in notation
+- [ ] Reinforce the sign convention for electron potential energy $U = -eV$
+
 ### Day 3: Dynamic systems and circuit ODEs
 
 - [x] entry diagnostic: R1 + Q1-Q4 (exercise 06)
