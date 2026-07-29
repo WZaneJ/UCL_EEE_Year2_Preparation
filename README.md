@@ -26,7 +26,7 @@ of Electronic and Electrical Engineering at UCL.
 
 - [x] Week 1 Day 1: Complex numbers, travelling waves and ODEs
 - [x] Week 1 Day 2: Electric fields and potential
-- [ ] Week 1 Day 3: Dynamic systems
+- [x] Week 1 Day 3: Dynamic systems
 - [ ] Week 1 Day 4: Semiconductor and photonics foundations
 - [ ] Week 1 Day 5: Python OOP - Wave class
 
@@ -44,6 +44,14 @@ of Electronic and Electrical Engineering at UCL.
 - [Electric-fields practice](exercises/week01/04-electric-fields-practice.md)
 - [Electric-fields exit test](exercises/week01/05-electric-fields-exit-test.md)
 - [Python simulations](python/week01/)
+
+### Week 1 Day 3 materials
+
+- [Day 3 notes - dynamic systems and circuit ODEs](notes/week01/day03-dynamic-systems-circuit-odes.md)
+- [Exercise 06 - circuit ODE entry diagnostic](exercises/week01/06-circuit-ode-diagnostic.md)
+- [Exercise 07 - circuit ODE practice](exercises/week01/07-circuit-ode-practice.md)
+- [Exercise 08 - circuit ODE exit test](exercises/week01/08-circuit-ode-exit-test.md)
+- [Python - circuit ODE simulation](python/week01/circuit_ode_sim.py)
 
 ## Tools
 
