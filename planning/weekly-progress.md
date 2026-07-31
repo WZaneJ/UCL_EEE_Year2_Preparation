@@ -27,9 +27,9 @@ $$
 
 ### Review queue
 
-- [ ] Review the difference between a complete complex field and a phasor
-- [ ] Remember the factor $2j$ in the exponential form of sine
-- [ ] Distinguish spatial attenuation from temporal variation
+- [x] Review the difference between a complete complex field and a phasor
+- [x] Remember the factor $2j$ in the exponential form of sine
+- [x] Distinguish spatial attenuation from temporal variation
 
 
 ### Day 2: Electric fields and potential
@@ -64,9 +64,9 @@ $$
 
 ### Review queue
 
-- [ ] Consistently write both magnitude and direction for vector answers
-- [ ] Keep $dx$ (spatial) and $dt$ (time) derivatives distinct in notation
-- [ ] Reinforce the sign convention for electron potential energy $U = -eV$
+- [x] Consistently write both magnitude and direction for vector answers
+- [x] Keep $dx$ (spatial) and $dt$ (time) derivatives distinct in notation
+- [x] Reinforce the sign convention for electron potential energy $U = -eV$
 
 ### Day 3: Dynamic systems and circuit ODEs
 
@@ -87,9 +87,34 @@ $$
 
 ### Review queue
 
-- [ ] Second-derivative notation $\frac{d^2v_C}{dt^2}$ (flagged twice on Day 3: diagnostic Q4 and exit test ET4).
-- [ ] Vector answers need magnitude and direction; numeric answers need units (from Day 2).
-- [ ] Keep $dx$ (space) and $dt$ (time) derivatives distinct; recheck before the Week 4 wave equation.
-- [ ] Electron-energy sign convention $U = -eV$; recheck before Week 8 PN-junction band bending.
+- [x] Second-derivative notation $\frac{d^2v_C}{dt^2}$ (flagged twice on Day 3: diagnostic Q4 and exit test ET4).
+- [x] Vector answers need magnitude and direction; numeric answers need units (from Day 2).
+- [x] Keep $dx$ (space) and $dt$ (time) derivatives distinct; recheck before the Week 4 wave equation.
+- [x] Electron-energy sign convention $U = -eV$; recheck before Week 8 PN-junction band bending.
 
 ### Day 4: Semiconductor and photonics foundations
+
+- [x]  Entry diagnostic: Q1-Q4 (exercise 09)
+- [x]  Band formation from atomic levels to solids
+- [x]  Conductor/semiconductor/insulator band structure comparison
+- [x]  Intrinsic carriers: electrons and holes
+- [x]  Doping: n-type and p-type basics
+- [x]  PN junction band bending (qualitative)
+- [x]  Python visualization: band diagram
+- [x]  Exit test: ET1-ET3 (exercise 10)
+
+### Key results
+
+- Band gap $E_g = E_C - E_V$; silicon $E_g = 1.12\,\text{eV}$
+- Intrinsic carrier concentration $n_i = p_i = \sqrt{N_C N_V} \exp(-E_g/2kT)$
+- n-type: donor atoms, majority = electrons; p-type: acceptor atoms, majority = holes
+- PN junction: built-in electric field causes band bending in depletion region
+- Photon absorption: $E_{photon} \geq E_g$
+
+### Review queue
+
+- [ ]  Second-derivative notation $\frac{d^2v_C}{dt^2}$
+- [ ]  Vector answers: magnitude + direction + units
+- [ ]  Keep $dx$ and $dt$ distinct
+- [ ]  Electron-energy sign convention $U = -eV$
+- [ ]  Band gap concept and carrier generation (check before Week 8)
