@@ -1,8 +1,6 @@
 # UCL EEE Year 2 Preparation
 
-This repository contains my integrated summer study notes,
-simulations and projects for preparation for the second year
-of Electronic and Electrical Engineering at UCL.
+This repository contains my integrated summer study notes, simulations and projects for preparation for the second year of Electronic and Electrical Engineering at UCL.
 
 ## Learning tracks
 
@@ -24,11 +22,11 @@ of Electronic and Electrical Engineering at UCL.
 
 ## Current progress
 
-- [x] Week 1 Day 1: Complex numbers, travelling waves and ODEs
-- [x] Week 1 Day 2: Electric fields and potential
-- [x] Week 1 Day 3: Dynamic systems
-- [x] Week 1 Day 4: Semiconductor and photonics foundations
-- [ ] Week 1 Day 5: Python OOP - Wave class
+- [x]  Week 1 Day 1: Complex numbers, travelling waves and ODEs
+- [x]  Week 1 Day 2: Electric fields and potential
+- [x]  Week 1 Day 3: Dynamic systems
+- [x]  Week 1 Day 4: Semiconductor and photonics foundations
+- [x]  Week 1 Day 5: Python OOP - Wave class
 
 ### Week 1 Day 1 materials
 
@@ -36,14 +34,14 @@ of Electronic and Electrical Engineering at UCL.
 - [Diagnostic test](exercises/week01/01-diagnostic-test.md)
 - [Travelling-waves and ODE practice](exercises/week01/02-travelling-waves-ode-practice.md)
 - [Exit test](exercises/week01/03-exit-test.md)
-- [Python simulations](python/week01/)
+- [Python simulations](python/week01)
 
 ### Week 1 Day 2 materials
 
 - [Study notes](notes/week01/day02-electric-fields-potential.md)
 - [Electric-fields practice](exercises/week01/04-electric-fields-practice.md)
 - [Electric-fields exit test](exercises/week01/05-electric-fields-exit-test.md)
-- [Python simulations](python/week01/)
+- [Python simulations](python/week01)
 
 ### Week 1 Day 3 materials
 
@@ -59,6 +57,15 @@ of Electronic and Electrical Engineering at UCL.
 - [Entry diagnostic](exercises/week01/09-semiconductor-diagnostic.md)
 - [Exit test](exercises/week01/10-semiconductor-exit-test.md)
 - [Python visualization](python/week01/band_diagram.py)
+
+### Week 1 Day 5 materials
+
+- [Study notes](notes/week01/day05-python-oop-wave-class.md)
+- [Exercise 11 - OOP diagnostic](exercises/week01/11-oop-diagnostic.md)
+- [Exercise 12 - Wave class practice](exercises/week01/12-wave-class-practice.md)
+- [Exercise 13 - OOP exit test](exercises/week01/13-oop-exit-test.md)
+- [Python - Wave class implementation](python/week01/wave_class.py)
+- [Python - Wave visualization](python/week01/wave_visualization.png)
 
 ## Tools
 
@@ -88,6 +95,4 @@ of Electronic and Electrical Engineering at UCL.
 
 ## Important note
 
-This repository contains my own notes, code and original work.
-Commercial textbooks, restricted course materials and personal
-information are not included.
+This repository contains my own notes, code and original work. Commercial textbooks, restricted course materials and personal information are not included.
