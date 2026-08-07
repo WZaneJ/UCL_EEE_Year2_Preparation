@@ -135,10 +135,42 @@ $|E| = \frac{V_0}{d}$ (parallel plate)
 
 ### Day 1: Vector calculus foundations
 
-- [ ]  Gradient, divergence, curl operations
-- [ ]  Line integrals and surface integrals
-- [ ]  Divergence theorem and Stokes' theorem
-- [ ]  Python visualization of vector fields
+- [x]  Entry diagnostic and Week 1 recall (exercise 14)
+- [x]  Scalar fields, vector fields and gradient
+- [x]  Electric field as $\vec{E}=-\nabla V$
+- [x]  Directional derivatives and level curves
+- [x]  Gradient practice (exercise 15)
+- [x]  Directional-derivative and level-curve practice (exercise 16)
+- [x]  Divergence, source and sink intuition (exercise 17)
+- [x]  Curl and local rotation intuition
+- [x]  Line-integral and circulation concept check (exercise 18)
+- [x]  Exit test (exercise 19)
+- [x]  Scope reduced after cognitive-load and time-budget check
+
+### Key results
+
+- Gradient maps a scalar field to a vector field and points in the direction of maximum increase.
+- $D_{\vec{u}}f=\nabla f\cdot\vec{u}$ gives the rate of change along a unit direction.
+- $\nabla\cdot\vec{F}$ is a scalar measuring local net outflow; $\nabla\times\vec{F}$ is a vector measuring local rotation tendency.
+- A vector line integral accumulates the tangential component of a field along a path; a closed-path line integral is circulation.
+- Six handwritten exercises archived (14-19); exit-test mastery estimate about 92%.
+- Planned B-tier was about 2.5 hours; actual study time was about 4 hours including external learning, feedback and correction.
+
+### Review queue
+
+- [ ]  State both input and output types when classifying vector-calculus operators
+- [ ]  Keep the specified direction separate from the gradient direction
+- [ ]  Treat two-dimensional curl as the $z$ component of the full curl vector
+- [ ]  State the curl-circulation relation as a local limit per unit area
+- [ ]  Keep vector notation explicit in handwritten work and archived notes
+
+### Day 2: Flux, integral theorems and Maxwell connections
+
+- [ ]  Surface integrals and flux
+- [ ]  Divergence theorem
+- [ ]  Stokes' theorem
+- [ ]  Python vector-field visualisation
+- [ ]  Connection to Maxwell equations and Poisson's equation
 
 ### Key results
 

@@ -67,6 +67,16 @@ This repository contains my integrated summer study notes, simulations and proje
 - [Python - Wave class implementation](python/week01/wave_class.py)
 - [Python - Wave visualization](python/week01/wave_visualization.png)
 
+### Week 2 Day 1 materials
+
+- [Study notes](notes/week02/day01-vector-calculus-foundations.md)
+- [Exercise 14 - vector-calculus entry diagnostic](exercises/week02/14-vector-calculus-entry-diagnostic.md)
+- [Exercise 15 - gradient practice](exercises/week02/15-gradient-practice.md)
+- [Exercise 16 - directional derivative and level curves](exercises/week02/16-directional-derivative-level-curves-practice.md)
+- [Exercise 17 - divergence practice](exercises/week02/17-divergence-practice.md)
+- [Exercise 18 - line integral and circulation check](exercises/week02/18-line-integral-circulation-check.md)
+- [Exercise 19 - vector-calculus exit test](exercises/week02/19-vector-calculus-exit-test.md)
+
 ## Tools
 
 - Python
