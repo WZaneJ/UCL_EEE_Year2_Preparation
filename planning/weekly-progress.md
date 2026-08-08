@@ -164,13 +164,42 @@ $|E| = \frac{V_0}{d}$ (parallel plate)
 - [ ]  State the curl-circulation relation as a local limit per unit area
 - [ ]  Keep vector notation explicit in handwritten work and archived notes
 
-### Day 2: Flux, integral theorems and Maxwell connections
+### Day 2: Surface integrals and flux
 
-- [ ]  Surface integrals and flux
-- [ ]  Divergence theorem
-- [ ]  Stokes' theorem
-- [ ]  Python vector-field visualisation
-- [ ]  Connection to Maxwell equations and Poisson's equation
+- [x]  Closed-book recall of W2D1 grad/div/curl plus two flux-intuition pre-diagnostic questions (exercise 20)
+- [x]  Three-layer definition of flux: $EA$ (perpendicular) -> $EA\cos\theta$ (angled) -> $\iint\vec{F}\cdot\hat{n}\,dA$ (general)
+- [x]  Unit normal, oriented area vector $\vec{A}=\hat{n}A$, vector area element $d\vec{A}=\hat{n}\,dA$
+- [x]  Sign convention: $\theta=0°/90°/180°$ cases; open vs closed surfaces; outward-normal convention
+- [x]  Guided example (rectangular plate, $\vec{E}=(4,3,0)$) — exercise 21
+- [x]  Independent practice ($\vec{E}=(0,10,0)$, $\hat{n}$ tilted 60°) — exercise 22
+- [x]  Exit test (two-part: flux at 60°; normal-flipped sign) — exercise 23
+- [x]  Scope reduced to one concept cluster (surface integrals + flux only); divergence theorem, Stokes, Python vis and Maxwell/Poisson connections deferred
+
+### Key results
+
+- Flux is the scalar accumulation of the normal component of a vector field over an oriented surface: $\Phi=\iint_S\vec{F}\cdot\hat{n}\,dA$.
+- Layer-2 uniform-field formula $\Phi=(\vec{E}\cdot\hat{n})A=EA\cos\theta$; tangential components contribute zero.
+- Sign: $\Phi>0$ net outflow, $\Phi<0$ net inflow, $\Phi=0$ either no crossing or equal in-and-out; flipping $\hat{n}$ flips $\Phi$ without changing the physics.
+- Closed surfaces use the outward normal by universal convention (preparation for Gauss's law and the Divergence Theorem in W2D3).
+- Four handwritten exercises archived (20-23); day-mastery estimate about 90%.
+- Planned A-tier 120 min reduced to about 55 min at student request (fatigue); one concept cluster only.
+
+### Review queue
+
+- [ ]  Use uppercase $\Phi$ for flux and $\hat{n}$ (hat) for the unit normal in handwritten work
+- [ ]  When a problem asks for a one-sentence physical interpretation, write the sentence rather than giving only the numerical result
+- [ ]  State both input and output types when classifying vector-calculus operators (carried from W2D1)
+- [ ]  Keep the specified direction separate from the gradient direction (carried)
+- [ ]  Treat two-dimensional curl as the $z$ component of the full curl (carried)
+- [ ]  State the curl-circulation relation as a local limit per unit area in a chosen normal (carried)
+- [ ]  OOP: deepen `self`, mutation vs returning new objects, inheritance vs composition (carried from W1D5)
+
+### Day 3: Divergence theorem and Gauss's law
+
+- [ ]  Divergence theorem (2D intuition -> 3D statement -> examples)
+- [ ]  Symmetric Gaussian-surface flux computations (spherical, cylindrical, planar)
+- [ ]  Gauss's law in integral form and its connection to Coulomb's law
+- [ ]  (Deferred from Day 2) Stokes' theorem, Python vector-field visualisation, Maxwell/Poisson connections
 
 ### Key results
 

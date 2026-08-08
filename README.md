@@ -27,6 +27,8 @@ This repository contains my integrated summer study notes, simulations and proje
 - [x]  Week 1 Day 3: Dynamic systems
 - [x]  Week 1 Day 4: Semiconductor and photonics foundations
 - [x]  Week 1 Day 5: Python OOP - Wave class
+- [x]  Week 2 Day 1: Vector calculus foundations
+- [x]  Week 2 Day 2: Surface integrals and flux
 
 ### Week 1 Day 1 materials
 
@@ -76,6 +78,14 @@ This repository contains my integrated summer study notes, simulations and proje
 - [Exercise 17 - divergence practice](exercises/week02/17-divergence-practice.md)
 - [Exercise 18 - line integral and circulation check](exercises/week02/18-line-integral-circulation-check.md)
 - [Exercise 19 - vector-calculus exit test](exercises/week02/19-vector-calculus-exit-test.md)
+
+### Week 2 Day 2 materials
+
+- [Study notes - surface integrals and flux](notes/week02/day02-surface-integrals-flux.md)
+- [Exercise 20 - flux entry diagnostic](exercises/week02/20-flux-entry-diagnostic.md)
+- [Exercise 21 - flux guided example](exercises/week02/21-flux-guided-example.md)
+- [Exercise 22 - flux independent practice](exercises/week02/22-flux-independent-practice.md)
+- [Exercise 23 - flux exit test](exercises/week02/23-flux-exit-test.md)
 
 ## Tools
 
